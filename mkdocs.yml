@@ -1,0 +1,15 @@
+site_name: Isekaid Documentation
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: amber
+    accent: deep orange
+nav:
+- Getting Started: index.md
+- Gameplay: gameplay.md
+- Items and Pets: equipment.md
+- Parties and Guilds: party.md
+- Trading: trading.md
+- Professions: professions.md
+- Shop and Market: market.md
