@@ -13,3 +13,7 @@ nav:
 - Trading: trading.md
 - Professions: professions.md
 - Shop and Market: market.md
+extra:
+  analytics:
+    provider: google
+    property: G-C1PE1WD8GQ
