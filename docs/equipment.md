@@ -19,6 +19,7 @@ Pets can be obtained by doing `` $buy summon``
 * `$feed [pet id] [item name] [item amount]` - feed a pet meat or fish to level it up and increase its damage
 * `$sell pet [pet id]` - sell a pet to get some meat
     - * `$sell pet all [rarity]` - sell all pets of a certain rarity
+* `$petfuse [pet id 1] [pet id 2]` - fuse two pets together, both pets must be the same rarity, rank and reach level 50
 
 ## Artifacts
 Artifacts can be obtained by clearing dungeons and grant different bonuses
