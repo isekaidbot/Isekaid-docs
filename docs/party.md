@@ -22,5 +22,5 @@ Guilds are an organized group players can join to obtain certain bonuses, as you
 * `$guild leave` leave your guild
 * `$guild disband` disband your guild
 * `$guild donate [amount of gold]` level up your guild by donating gold.
-* `$changeowner [user mention]` transfer guild ownership
+* `$guild changeowner [user mention]` transfer guild ownership
 * `$guild members` shows all members
