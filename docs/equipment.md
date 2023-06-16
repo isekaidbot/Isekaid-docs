@@ -4,8 +4,7 @@
 
 * `$inventory` - open the inventory, the numbers shown on the left are the ids
     - you can add filters to the inventory to filter by name, rarity, rank or filter out certain stats
-
-      - Example: `$inventory --rarity common --rank 1 --name mithril --nostat dexterity,intelligence
+      - Example: `$inventory --rarity common --rank 1 --name mithril --nostat dexterity,intelligence`
 * `$view item [id]` - view a weapon or armor's details
 * `$equip item [id]` - equip a weapon or armor
 * `$sell equipment [id]` - sell an individual item
