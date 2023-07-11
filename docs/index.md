@@ -41,6 +41,7 @@ Every time you level up you get 5 assignable stat points
         * Swordsman: Uses strength, most skills focus on dealing high damage and summoning sword shadows to deal consistent damage.
         * Berserker: Uses strength, most skills focus on dealing high damage, restoring health through lifesteal and bleed damage.
         * Guardian: A tank class, recommended to focus on health and defense, most skills focus on recovering health, increasing defense and reflecting damage.
+        * Druid: Mainly uses strength, recommended to build additional health and defense, most skills focus on dealing damage through bleed and wounds and increasing stats
 * **Mage** \- uses intelligence for most skills.
     * **Subclasses**
         * Elementalist: Uses intelligence, most skills focus on dealing very high but inconsistent damage.
